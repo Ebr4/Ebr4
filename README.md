@@ -3,8 +3,7 @@
 
 
 <p align="center">
-    <a href="https://github.com/ebr4"><img width="48%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ebr4&theme=dracula&show_icons=true&hide_border=true"></a>
-    <!--<a href="https://github.com/ebr4"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=ebr4&theme=dracula&hide_border=true"></a>-->
+    [![Ebr4's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&show_icons=true&theme=transparent)](https://github.com/ebr4/github-readme-stats)
 </p>
 
 <p align="center">
@@ -12,7 +11,7 @@
 </p>
     
 
-[![Ebr4's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&show_icons=true&theme=transparent)](https://github.com/ebr4/github-readme-stats)
+
 
 
 
