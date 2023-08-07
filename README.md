@@ -1,12 +1,7 @@
 ## Ebrahim Kadhi - @ebr4
 ### Welcome 
 
-
-<p align="center">
-    <div>
-        [![Ebr4's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&show_icons=true&theme=transparent)](https://github.com/ebr4/github-readme-stats)
-    </div>
-</p>
+[![Ebr4's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&show_icons=true&theme=transparent)](https://github.com/ebr4/github-readme-stats)
 
 <p align="center">
     <a href="https://github.com/ebr4?tab=followers"><img alt="GitHub" src="https://img.shields.io/github/followers/ebr4?label=GitHub&logo=GitHub&style=for-the-badge"></a>
