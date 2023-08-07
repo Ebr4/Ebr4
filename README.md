@@ -3,7 +3,9 @@
 
 
 <p align="center">
-    [![Ebr4's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&show_icons=true&theme=transparent)](https://github.com/ebr4/github-readme-stats)
+    <div>
+        [![Ebr4's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4&show_icons=true&theme=transparent)](https://github.com/ebr4/github-readme-stats)
+    </div>
 </p>
 
 <p align="center">
