@@ -10,6 +10,9 @@
 <p align="center">
     <a href="https://github.com/ebr4?tab=followers"><img alt="GitHub" src="https://img.shields.io/github/followers/ebr4?label=GitHub&logo=GitHub&style=for-the-badge"></a>
 </p>
+[![Ebr4's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebr4)](https://github.com/ebr4/github-readme-stats)
+
+
     <!--<a href="https://twitter.com/m1h4rbe"><img alt="Twitter" src="https://img.shields.io/twitter/follow/m1h4rbe?label=Twitter&logo=Twitter&style=for-the-badge"></a>
 </p>
 <p align="center">
