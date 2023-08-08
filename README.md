@@ -1,14 +1,13 @@
 ## Ebrahim Kadhi - @ebr4
 ### Welcome 
-
-[![Ebr4's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&show_icons=true&theme=transparent&show=issues)](https://github.com/Ebr4/github-readme-stats)   [![Ebr4's Languages stats](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&show_icons=true&theme=transparent&langs_count=10&layout=compact&hide_progress=true)](https://github.com/Ebr4/github-readme-stats)
-
+<center>
+  <a href="https://github.com/Ebr4/github-readme-stats">
+  <img alt="Ebr4's GitHub stats" align="center" src="https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&show_icons=true&theme=transparent&show=issues" /></a>
 <a href="https://github.com/Ebr4/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&show_icons=true&theme=transparent&show=issues" />
+  <img alt="Ebr4's Langs stats"align="center" src="https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&show_icons=true&theme=transparent&langs_count=10&layout=compact&hide_progress=true" />
 </a>
-<a href="https://github.com/Ebr4/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&show_icons=true&theme=transparent&langs_count=10&layout=compact&hide_progress=true" />
-</a>
+</center>
+
 
 <p align="center">
 <a href="https://github.com/ebr4?tab=followers"><img alt="GitHub" src="https://img.shields.io/github/followers/ebr4?label=GitHub&logo=GitHub&style=for-the-badge"></a>
