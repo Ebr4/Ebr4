@@ -1,6 +1,9 @@
 ## Ebrahim Kadhi - @ebr4
 ### Welcome 
 
+[![Ebr4's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&show_icons=true&theme=transparent)](https://github.com/Ebr4/github-readme-stats)
+
+
 [![Ebr4's GitHub stats](https://github-readme-stats-seven-rho-94.vercel.app/api?username=ebr4&show_icons=true&theme=transparent)](https://github.com/Ebr4/github-readme-stats)
 
 <p align="center">
