@@ -14,7 +14,7 @@
 <a href="https://github.com/ebr4"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ebr4&style=for-the-badge"></a>
 </p>
 
-## Having some thoughts? 
+## Have some thoughts? 
 ### Contact me 
 [<img align="left" width="22" alt="ranger163 on Gmail" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg">](mailto:ebrahimkadhi@gmail.com)
 [<img align="left" width="22" alt="ranger163 on Twitter" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg">](https://twitter.com/m1h4rbe)
