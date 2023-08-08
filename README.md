@@ -9,9 +9,7 @@
 <p align="center">
 <a href="https://github.com/ebr4?tab=followers"><img alt="GitHub" src="https://img.shields.io/github/followers/ebr4?label=GitHub&logo=GitHub&style=for-the-badge"></a>
 <a href="https://twitter.com/m1h4rbe"><img alt="Twitter" src="https://img.shields.io/twitter/follow/m1h4rbe?label=Twitter&logo=Twitter&style=for-the-badge"></a>
-</p>
-<p align="center">
-    <a href="https://github.com/ebr4"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ebr4&style=flat-square"></a>
+<a href="https://github.com/ebr4"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ebr4&style=flat-square"></a>
 </p>
 
 ## Having some thoughts? 
