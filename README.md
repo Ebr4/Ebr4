@@ -1,7 +1,7 @@
 ## Ebrahim Kadhi - @ebr4
 ### Welcome 
 
-[![Ebr4's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&show_icons=true&theme=transparent&show=issues)](https://github.com/Ebr4/github-readme-stats)[![Ebr4's Languages stats](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&show_icons=true&theme=transparent&langs_count=10&layout=compact&hide_progress=true)](https://github.com/Ebr4/github-readme-stats)
+[![Ebr4's GitHub stats](https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&show_icons=true&theme=transparent&show=issues)](https://github.com/Ebr4/github-readme-stats)   [![Ebr4's Languages stats](https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&show_icons=true&theme=transparent&langs_count=10&layout=compact&hide_progress=true)](https://github.com/Ebr4/github-readme-stats)
 
 
 <p align="center">
