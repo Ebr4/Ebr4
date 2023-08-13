@@ -44,37 +44,55 @@
   <img align="left" width="22" src="https://cdn.simpleicons.org/android" alt="Android">
   <img align="left" width="22" src="https://cdn.simpleicons.org/react" alt="React JS">
 
-  <!--Languages-->
+  <!--Languages--><br />
   <img align="left" width="22" src="https://cdn.simpleicons.org/csharp" alt="C#">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/java" alt="Java">
   <img align="left" width="22" src="https://cdn.simpleicons.org/javascript" alt="JavaScript">
   <img align="left" width="22" src="https://cdn.simpleicons.org/typescript" alt="Typescript">
-  <!--DBS-->
+  <img align="left" width="22" src="https://cdn.simpleicons.org/html5" alt="Html5">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/css3" alt="css3">
+  <!--DBS--><br />
   <img align="left" width="22" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL">
   <img align="left" width="22" src="https://cdn.simpleicons.org/mysql" alt="Mysql">
   <img align="left" width="22" src="https://cdn.simpleicons.org/sqlite" alt="Sqlite">
   <img align="left" width="22" src="https://cdn.simpleicons.org/microsoftsqlserver" alt="MSSQL">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/firebase" alt="firebase">
   <img align="left" width="22" src="https://cdn.simpleicons.org/redis" alt="redis">
-  <!--CLOUD-->
+  <!--CLOUD--><br />
   <img align="left" width="22" src="https://cdn.simpleicons.org/amazonaws" alt="AWS">
   <img align="left" width="22" src="https://cdn.simpleicons.org/microsoftazure" alt="Azure">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/vmware" alt="Vmware">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/virtualbox" alt="virtual box">
   <!--SDKs-->
-  <!--WebServers-->
+  <!--WebServers--><br />
   <img align="left" width="22" src="https://cdn.simpleicons.org/apache" alt="apache">
   <img align="left" width="22" src="https://cdn.simpleicons.org/apachetomcat" alt="Tom cat">
-  <!--OSs-->
-  <!--libs-->
+  <!--OSs--><br />
+  <img align="left" width="22" src="https://cdn.simpleicons.org/linux" alt="Linux">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/windows" alt="Windows">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/redhat" alt="red hat">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/kalilinux" alt="kalilinux">
+  <!--libs--><br />
   <img align="left" width="22" src="https://cdn.simpleicons.org/chartdotjs" alt="chart JS">
-  <!--Utils-->
+  <img align="left" width="22" src="https://cdn.simpleicons.org/leaflet" alt="leaflet">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/googlemaps" alt="googlemaps">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/materialdesign" alt="materialdesign">
+  <!--Utils--><br />
   <img align="left" width="22" src="https://cdn.simpleicons.org/rabbitmq" alt="RabbitMQ">
   <img align="left" width="22" src="https://cdn.simpleicons.org/elastic" alt="elastic">
   <img align="left" width="22" src="https://cdn.simpleicons.org/elasticstack" alt="elastic stack">
-  <!--Security-->
+  <img align="left" width="22" src="https://cdn.simpleicons.org/diagramsdotnet" alt="diagramsdotnet">
+
+  <!--Security--><br />
   <img align="left" width="22" src="https://cdn.simpleicons.org/owasp" alt="Owasp">
   <img align="left" width="22" src="https://cdn.simpleicons.org/jsonwebtokens" alt="json web tokens">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/wireshark" alt="wireshark">
   <!--Management tools-->
+  <!--
   <img align="left" width="22" src="https://cdn.simpleicons.org/jira" alt="Jira">
   <img align="left" width="22" src="https://cdn.simpleicons.org/confluence" alt="Confluence">
   <img align="left" width="22" src="https://cdn.simpleicons.org/trello" alt="Trello">
   <img align="left" width="22" src="https://cdn.simpleicons.org/microsoftteams" alt="Microsoft Teams">
   <img align="left" width="22" src="https://cdn.simpleicons.org/slack" alt="Slack">
+  -->
 </p>
