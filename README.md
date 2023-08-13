@@ -37,7 +37,11 @@
 <br>
 
 <p align="center">
-  <!-- icons : https://simpleicons.org/ -->
+  <!-- 
+  # NOTE: 
+    1- I JUST ADDED WHAT I USED BEFORE.
+    2- This section is written for fun and memory only :P
+  icons: https://simpleicons.org/ -->
   <!--Frameworks-->
   <img align="left" width="22" src="https://cdn.simpleicons.org/.net" alt=".net">
   <img align="left" width="22" src="https://cdn.simpleicons.org/springboot" alt="Spring Boot">
@@ -53,8 +57,8 @@
   <img align="left" width="22" src="https://cdn.simpleicons.org/html5" alt="Html5">
   <img align="left" width="22" src="https://cdn.simpleicons.org/css3" alt="css3">
   <img align="left" width="22" src="https://cdn.simpleicons.org/php" alt="php">
-  <img align="left" width="22" src="https://cdn.simpleicons.org/gnubash" alt="gnubash">
-  <img align="left" width="22" src="https://cdn.simpleicons.org/powershell" alt="powershell">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/gnubash" alt="gnu bash">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/powershell" alt="PowerShell">
   <!--DBS--><br />
   <img align="left" width="22" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL">
   <img align="left" width="22" src="https://cdn.simpleicons.org/mysql" alt="Mysql">
@@ -66,14 +70,14 @@
   <!--CLOUD--><br />
   <img align="left" width="22" src="https://cdn.simpleicons.org/amazonaws" alt="AWS">
   <img align="left" width="22" src="https://cdn.simpleicons.org/microsoftazure" alt="Azure">
-  <img align="left" width="22" src="https://cdn.simpleicons.org/cloudflare" alt="cloudflare">
-  <img align="left" width="22" src="https://cdn.simpleicons.org/digitalocean" alt="digitalocean">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/cloudflare" alt="Cloudflare">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/digitalocean" alt="digital ocean">
   <img align="left" width="22" src="https://cdn.simpleicons.org/vmware" alt="Vmware">
   <img align="left" width="22" src="https://cdn.simpleicons.org/virtualbox" alt="virtual box">
   <img align="left" width="22" src="https://cdn.simpleicons.org/docker" alt="Docker">
   <!--SDKs--><br />
   <!--<img align="left" width="22" src="https://cdn.simpleicons.org/androidstudio" alt="Android Studio">
-  payment gateways: checkout, payfort, hyperpay,stcpay ...etc
+  payment gateways: checkout, payfort, hyper pay,STC pay ...etc
   like card...etc
   -->
   <!--OSs--><br />
@@ -115,6 +119,10 @@
   <img align="left" width="22" src="https://cdn.simpleicons.org/jsonwebtokens" alt="json web tokens">
   <img align="left" width="22" src="https://cdn.simpleicons.org/wireshark" alt="wireshark">
   <img align="left" width="22" src="https://cdn.simpleicons.org/splunk" alt="splunk">
+  <!--
+  metasploit, nexpose, netsparker, Acunetix, skipfish, IBM AppScan, burpsuite...etc :)
+  -->
+
   <!--Management tools-->
   <!--
   <img align="left" width="22" src="https://cdn.simpleicons.org/jira" alt="Jira">
@@ -125,4 +133,13 @@
   <img align="left" width="22" src="https://cdn.simpleicons.org/ClickUp" alt="ClickUp">
   <img align="left" width="22" src="https://cdn.simpleicons.org/notion" alt="notion">
   -->
+
+  <!--
+  hacking platforms : tryhackme, hackthebox, hackthissite.org ....etc
+  bug bounty platforms: bug crowd, HackerOne, INTIGRITI, bugbounty.sa ..etc
+  -->
+  
+
+
+
 </p>
