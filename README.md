@@ -91,6 +91,7 @@
   <img align="left" width="22" src="https://cdn.simpleicons.org/antdesign" alt="antdesign">
   <!--Utils--><br />
   <img align="left" width="22" src="https://cdn.simpleicons.org/rabbitmq" alt="RabbitMQ">
+  <!--<img align="left" width="22" src="https://cdn.simpleicons.org/apachekafka" alt="apachekafka">-->
   <img align="left" width="22" src="https://cdn.simpleicons.org/elastic" alt="elastic">
   <img align="left" width="22" src="https://cdn.simpleicons.org/elasticstack" alt="elastic stack">
   <img align="left" width="22" src="https://cdn.simpleicons.org/diagramsdotnet" alt="diagramsdotnet">
