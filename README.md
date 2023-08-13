@@ -32,5 +32,15 @@
 <br>
 
 <p align="center">
-  [<img align="left" width="22" src="https://cdn.simpleicons.org/.net" alt=".net">]
+  <img align="left" width="22" src="https://cdn.simpleicons.org/.net" alt=".net">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/android" alt="Android">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/react" alt="React JS">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/javascript" alt="JavaScript">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/csharp" alt="C#">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/chartdotjs" alt="chart JS">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/rabbitmq" alt="RabbitMQ">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/owasp" alt="Owasp">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/typescript" alt="Typescript">
+
+  
 </p>
