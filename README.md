@@ -46,14 +46,17 @@
 
   <!--Languages--><br />
   <img align="left" width="22" src="https://cdn.simpleicons.org/csharp" alt="C#">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/python" alt="python">
   <!--<img align="left" width="22" src="https://cdn.simpleicons.org/java" alt="Java">-->
   <img align="left" width="22" src="https://cdn.simpleicons.org/javascript" alt="JavaScript">
   <img align="left" width="22" src="https://cdn.simpleicons.org/typescript" alt="Typescript">
   <img align="left" width="22" src="https://cdn.simpleicons.org/html5" alt="Html5">
   <img align="left" width="22" src="https://cdn.simpleicons.org/css3" alt="css3">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/php" alt="php">
   <!--DBS--><br />
   <img align="left" width="22" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL">
   <img align="left" width="22" src="https://cdn.simpleicons.org/mysql" alt="Mysql">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/mariadb" alt="mariadb">
   <img align="left" width="22" src="https://cdn.simpleicons.org/sqlite" alt="Sqlite">
   <img align="left" width="22" src="https://cdn.simpleicons.org/microsoftsqlserver" alt="MSSQL">
   <img align="left" width="22" src="https://cdn.simpleicons.org/firebase" alt="firebase">
@@ -61,12 +64,18 @@
   <!--CLOUD--><br />
   <img align="left" width="22" src="https://cdn.simpleicons.org/amazonaws" alt="AWS">
   <img align="left" width="22" src="https://cdn.simpleicons.org/microsoftazure" alt="Azure">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/cloudflare" alt="cloudflare">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/digitalocean" alt="digitalocean">
   <img align="left" width="22" src="https://cdn.simpleicons.org/vmware" alt="Vmware">
   <img align="left" width="22" src="https://cdn.simpleicons.org/virtualbox" alt="virtual box">
-  <!--SDKs-->
+  <img align="left" width="22" src="https://cdn.simpleicons.org/docker" alt="Docker">
+  <!--SDKs--><br />
+  <img align="left" width="22" src="https://cdn.simpleicons.org/androidstudio" alt="Android Studio">
   <!--WebServers--><br />
   <img align="left" width="22" src="https://cdn.simpleicons.org/apache" alt="apache">
   <img align="left" width="22" src="https://cdn.simpleicons.org/apachetomcat" alt="Tom cat">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/nginx" alt="nginx">
+  <!--<img align="left" width="22" src="https://cdn.simpleicons.org/iis" alt="microsoft IIS">-->
   <!--OSs--><br />
   <img align="left" width="22" src="https://cdn.simpleicons.org/linux" alt="Linux">
   <img align="left" width="22" src="https://cdn.simpleicons.org/windows" alt="Windows">
@@ -77,16 +86,24 @@
   <img align="left" width="22" src="https://cdn.simpleicons.org/leaflet" alt="leaflet">
   <img align="left" width="22" src="https://cdn.simpleicons.org/googlemaps" alt="googlemaps">
   <img align="left" width="22" src="https://cdn.simpleicons.org/materialdesign" alt="materialdesign">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/mui" alt="mui">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/bootstrap" alt="bootstrap">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/antdesign" alt="antdesign">
   <!--Utils--><br />
   <img align="left" width="22" src="https://cdn.simpleicons.org/rabbitmq" alt="RabbitMQ">
   <img align="left" width="22" src="https://cdn.simpleicons.org/elastic" alt="elastic">
   <img align="left" width="22" src="https://cdn.simpleicons.org/elasticstack" alt="elastic stack">
   <img align="left" width="22" src="https://cdn.simpleicons.org/diagramsdotnet" alt="diagramsdotnet">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/postman" alt="postman">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/insomnia" alt="insomnia">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/mailchimp" alt="mailchimp">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/swagger" alt="swagger">
 
   <!--Security--><br />
   <img align="left" width="22" src="https://cdn.simpleicons.org/owasp" alt="Owasp">
   <img align="left" width="22" src="https://cdn.simpleicons.org/jsonwebtokens" alt="json web tokens">
   <img align="left" width="22" src="https://cdn.simpleicons.org/wireshark" alt="wireshark">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/splunk" alt="splunk">
   <!--Management tools-->
   <!--
   <img align="left" width="22" src="https://cdn.simpleicons.org/jira" alt="Jira">
@@ -94,5 +111,7 @@
   <img align="left" width="22" src="https://cdn.simpleicons.org/trello" alt="Trello">
   <img align="left" width="22" src="https://cdn.simpleicons.org/microsoftteams" alt="Microsoft Teams">
   <img align="left" width="22" src="https://cdn.simpleicons.org/slack" alt="Slack">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/ClickUp" alt="ClickUp">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/notion" alt="notion">
   -->
 </p>
