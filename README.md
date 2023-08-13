@@ -3,7 +3,7 @@
 <center>
   <p align="center">
   <a href="https://github.com/Ebr4/github-readme-stats">
-  <img alt="Ebr4's GitHub stats" align="center" src="https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&show_icons=true&theme=transparent&hide=issues,prs" /></a>
+  <img alt="Ebr4's GitHub stats" align="center" src="https://github-readme-stats-ten-drab-34.vercel.app/api?username=ebr4&show_icons=true&theme=transparent" /></a>
 <a href="https://github.com/Ebr4/github-readme-stats">
   <img alt="Ebr4's Langs stats"align="center" src="https://github-readme-stats-ten-drab-34.vercel.app/api/top-langs/?username=ebr4&show_icons=true&theme=transparent&langs_count=10&layout=compact&hide_progress=true" />
 </a>
