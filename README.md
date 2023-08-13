@@ -42,5 +42,5 @@
   <img align="left" width="22" src="https://cdn.simpleicons.org/owasp" alt="Owasp">
   <img align="left" width="22" src="https://cdn.simpleicons.org/typescript" alt="Typescript">
 
-  
+  <!-- icons : https://simpleicons.org/ -->
 </p>
