@@ -53,6 +53,8 @@
   <img align="left" width="22" src="https://cdn.simpleicons.org/html5" alt="Html5">
   <img align="left" width="22" src="https://cdn.simpleicons.org/css3" alt="css3">
   <img align="left" width="22" src="https://cdn.simpleicons.org/php" alt="php">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/gnubash" alt="gnubash">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/powershell" alt="powershell">
   <!--DBS--><br />
   <img align="left" width="22" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL">
   <img align="left" width="22" src="https://cdn.simpleicons.org/mysql" alt="Mysql">
@@ -70,17 +72,20 @@
   <img align="left" width="22" src="https://cdn.simpleicons.org/virtualbox" alt="virtual box">
   <img align="left" width="22" src="https://cdn.simpleicons.org/docker" alt="Docker">
   <!--SDKs--><br />
-  <img align="left" width="22" src="https://cdn.simpleicons.org/androidstudio" alt="Android Studio">
-  <!--WebServers--><br />
-  <img align="left" width="22" src="https://cdn.simpleicons.org/apache" alt="apache">
-  <img align="left" width="22" src="https://cdn.simpleicons.org/apachetomcat" alt="Tom cat">
-  <img align="left" width="22" src="https://cdn.simpleicons.org/nginx" alt="nginx">
-  <!--<img align="left" width="22" src="https://cdn.simpleicons.org/iis" alt="microsoft IIS">-->
+  <!--<img align="left" width="22" src="https://cdn.simpleicons.org/androidstudio" alt="Android Studio">
+  payment gateways: checkout, payfort, hyperpay,stcpay ...etc
+  like card...etc
+  -->
   <!--OSs--><br />
   <img align="left" width="22" src="https://cdn.simpleicons.org/linux" alt="Linux">
   <img align="left" width="22" src="https://cdn.simpleicons.org/windows" alt="Windows">
   <img align="left" width="22" src="https://cdn.simpleicons.org/redhat" alt="red hat">
   <img align="left" width="22" src="https://cdn.simpleicons.org/kalilinux" alt="kalilinux">
+  <!--WebServers--><br />
+  <img align="left" width="22" src="https://cdn.simpleicons.org/apache" alt="apache">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/apachetomcat" alt="Tom cat">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/nginx" alt="nginx">
+  <!--<img align="left" width="22" src="https://cdn.simpleicons.org/iis" alt="microsoft IIS">-->
   <!--libs--><br />
   <img align="left" width="22" src="https://cdn.simpleicons.org/chartdotjs" alt="chart JS">
   <img align="left" width="22" src="https://cdn.simpleicons.org/leaflet" alt="leaflet">
@@ -99,6 +104,11 @@
   <img align="left" width="22" src="https://cdn.simpleicons.org/insomnia" alt="insomnia">
   <img align="left" width="22" src="https://cdn.simpleicons.org/mailchimp" alt="mailchimp">
   <img align="left" width="22" src="https://cdn.simpleicons.org/swagger" alt="swagger">
+
+  <!--<img align="left" width="22" src="https://cdn.simpleicons.org/git" alt="git">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/github" alt="github">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/gitlab" alt="gitlab">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/bitbucket" alt="bitbucket"> -->
 
   <!--Security--><br />
   <img align="left" width="22" src="https://cdn.simpleicons.org/owasp" alt="Owasp">
