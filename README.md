@@ -42,13 +42,14 @@
     1- I JUST ADDED WHAT I USED BEFORE.
     2- This section is written for fun and memory only :P
   icons: https://simpleicons.org/ -->
-  <!--Frameworks-->
+  <!--Frameworks--><p>
   <img align="left" width="22" src="https://cdn.simpleicons.org/.net" alt=".net">
   <img align="left" width="22" src="https://cdn.simpleicons.org/springboot" alt="Spring Boot">
   <img align="left" width="22" src="https://cdn.simpleicons.org/android" alt="Android">
   <img align="left" width="22" src="https://cdn.simpleicons.org/react" alt="React JS">
-
-  <!--Languages--><br />
+  </p>
+  <!--Languages--><p>
+  
   <img align="left" width="22" src="https://cdn.simpleicons.org/csharp" alt="C#">
   <img align="left" width="22" src="https://cdn.simpleicons.org/python" alt="python">
   <!--<img align="left" width="22" src="https://cdn.simpleicons.org/java" alt="Java">-->
@@ -59,7 +60,8 @@
   <img align="left" width="22" src="https://cdn.simpleicons.org/php" alt="php">
   <img align="left" width="22" src="https://cdn.simpleicons.org/gnubash" alt="gnu bash">
   <img align="left" width="22" src="https://cdn.simpleicons.org/powershell" alt="PowerShell">
-  <!--DBS--><br />
+  </p>
+  <!--DBS--><p>
   <img align="left" width="22" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL">
   <img align="left" width="22" src="https://cdn.simpleicons.org/mysql" alt="Mysql">
   <img align="left" width="22" src="https://cdn.simpleicons.org/mariadb" alt="mariadb">
@@ -67,7 +69,8 @@
   <img align="left" width="22" src="https://cdn.simpleicons.org/microsoftsqlserver" alt="MSSQL">
   <img align="left" width="22" src="https://cdn.simpleicons.org/firebase" alt="firebase">
   <img align="left" width="22" src="https://cdn.simpleicons.org/redis" alt="redis">
-  <!--CLOUD--><br />
+  </p>
+  <!--CLOUD--><p>
   <img align="left" width="22" src="https://cdn.simpleicons.org/amazonaws" alt="AWS">
   <img align="left" width="22" src="https://cdn.simpleicons.org/microsoftazure" alt="Azure">
   <img align="left" width="22" src="https://cdn.simpleicons.org/cloudflare" alt="Cloudflare">
@@ -75,22 +78,26 @@
   <img align="left" width="22" src="https://cdn.simpleicons.org/vmware" alt="Vmware">
   <img align="left" width="22" src="https://cdn.simpleicons.org/virtualbox" alt="virtual box">
   <img align="left" width="22" src="https://cdn.simpleicons.org/docker" alt="Docker">
-  <!--SDKs--><br />
+  </p>
+  <!--SDKs--><p>
   <!--<img align="left" width="22" src="https://cdn.simpleicons.org/androidstudio" alt="Android Studio">
   payment gateways: checkout, payfort, hyper pay,STC pay ...etc
   like card...etc
   -->
-  <!--OSs--><br />
+  </p>
+  <!--OSs--><p>
   <img align="left" width="22" src="https://cdn.simpleicons.org/linux" alt="Linux">
   <img align="left" width="22" src="https://cdn.simpleicons.org/windows" alt="Windows">
   <img align="left" width="22" src="https://cdn.simpleicons.org/redhat" alt="red hat">
   <img align="left" width="22" src="https://cdn.simpleicons.org/kalilinux" alt="kalilinux">
-  <!--WebServers--><br />
+  </p>
+  <!--WebServers--><p>
   <img align="left" width="22" src="https://cdn.simpleicons.org/apache" alt="apache">
   <img align="left" width="22" src="https://cdn.simpleicons.org/apachetomcat" alt="Tom cat">
   <img align="left" width="22" src="https://cdn.simpleicons.org/nginx" alt="nginx">
   <!--<img align="left" width="22" src="https://cdn.simpleicons.org/iis" alt="microsoft IIS">-->
-  <!--libs--><br />
+  </p>
+  <!--libs--><p>
   <img align="left" width="22" src="https://cdn.simpleicons.org/chartdotjs" alt="chart JS">
   <img align="left" width="22" src="https://cdn.simpleicons.org/leaflet" alt="leaflet">
   <img align="left" width="22" src="https://cdn.simpleicons.org/googlemaps" alt="googlemaps">
@@ -98,7 +105,8 @@
   <img align="left" width="22" src="https://cdn.simpleicons.org/mui" alt="mui">
   <img align="left" width="22" src="https://cdn.simpleicons.org/bootstrap" alt="bootstrap">
   <img align="left" width="22" src="https://cdn.simpleicons.org/antdesign" alt="antdesign">
-  <!--Utils--><br />
+  </p>
+  <!--Utils--><p>
   <img align="left" width="22" src="https://cdn.simpleicons.org/rabbitmq" alt="RabbitMQ">
   <!--<img align="left" width="22" src="https://cdn.simpleicons.org/apachekafka" alt="apachekafka">-->
   <img align="left" width="22" src="https://cdn.simpleicons.org/elastic" alt="elastic">
@@ -113,8 +121,8 @@
   <img align="left" width="22" src="https://cdn.simpleicons.org/github" alt="github">
   <img align="left" width="22" src="https://cdn.simpleicons.org/gitlab" alt="gitlab">
   <img align="left" width="22" src="https://cdn.simpleicons.org/bitbucket" alt="bitbucket"> -->
-
-  <!--Security--><br />
+  </p>
+  <!--Security--><p>
   <img align="left" width="22" src="https://cdn.simpleicons.org/owasp" alt="Owasp">
   <img align="left" width="22" src="https://cdn.simpleicons.org/jsonwebtokens" alt="json web tokens">
   <img align="left" width="22" src="https://cdn.simpleicons.org/wireshark" alt="wireshark">
@@ -122,7 +130,7 @@
   <!--
   metasploit, nexpose, netsparker, Acunetix, skipfish, IBM AppScan, burpsuite...etc :)
   -->
-
+  </p>
   <!--Management tools-->
   <!--
   <img align="left" width="22" src="https://cdn.simpleicons.org/jira" alt="Jira">
