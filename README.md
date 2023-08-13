@@ -8,6 +8,12 @@
 </a>
 </center>
 
+<center>
+<a href="https://github.com/Ebr4/github-readme-stats">
+  <img alt="Ebr4's waka langs"align="center" src="https://github-readme-stats-ten-drab-34.vercel.app/api/wakatime?username=ebr4" />
+</a>
+</center>
+
 
 <p align="center">
 <a href="https://github.com/ebr4?tab=followers"><img alt="GitHub" src="https://img.shields.io/github/followers/ebr4?label=GitHub&logo=GitHub&style=for-the-badge"></a>
