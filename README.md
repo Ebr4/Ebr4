@@ -46,7 +46,7 @@
 
   <!--Languages--><br />
   <img align="left" width="22" src="https://cdn.simpleicons.org/csharp" alt="C#">
-  <img align="left" width="22" src="https://cdn.simpleicons.org/java" alt="Java">
+  <!--<img align="left" width="22" src="https://cdn.simpleicons.org/java" alt="Java">-->
   <img align="left" width="22" src="https://cdn.simpleicons.org/javascript" alt="JavaScript">
   <img align="left" width="22" src="https://cdn.simpleicons.org/typescript" alt="Typescript">
   <img align="left" width="22" src="https://cdn.simpleicons.org/html5" alt="Html5">
