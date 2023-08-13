@@ -9,9 +9,11 @@
 </center>
 
 <center>
+  <p align="center">
 <a href="https://github.com/Ebr4/github-readme-stats">
   <img alt="Ebr4's waka langs"align="center" src="https://github-readme-stats-ten-drab-34.vercel.app/api/wakatime?username=ebr4&theme=transparent" />
 </a>
+  </p>
 </center>
 
 
