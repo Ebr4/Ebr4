@@ -32,5 +32,5 @@
 <br>
 
 <p align="center">
-<img src="https://cdn.simpleicons.org/.net" alt=".net">
+  [<img align="left" width="22" src="https://cdn.simpleicons.org/.net" alt=".net">]
 </p>
