@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://github.com/Ebr4/github-readme-stats">
     <!--<img alt="Ebr4's waka langs"align="center" src="https://github-readme-stats-ten-drab-34.vercel.app/api/wakatime?username=ebr4&theme=transparent" />-->
-    <img alt="Ebr4's waka langs" align="center" src="[https://github-readme-stats-ten-drab-34.vercel.app/api/wakatime?username=ebr4&layout=compact&hide_progress=true&theme=transparent](https://github-readme-stats-ten-drab-34.vercel.app/api/wakatime?username=ebr4&layout=compact&hide_progress=true&hide=binary,swig,Java%20Properties,Image%20(svg),Ezhil&theme=transparent)" />
+    <img alt="Ebr4's waka langs" align="center" src="[https://github-readme-stats-ten-drab-34.vercel.app/api/wakatime?username=ebr4&layout=compact&hide_progress=true&theme=transparent](https://github-readme-stats-ten-drab-34.vercel.app/api/wakatime?username=ebr4&layout=compact&hide_progress=true&hide=binary,swig,java%20Properties,image%20(svg),ezhil&theme=transparent)" />
   </a>
 </p>
 
