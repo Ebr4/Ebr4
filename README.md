@@ -60,7 +60,7 @@
   <img align="left" width="22" src="https://cdn.simpleicons.org/css3" alt="css3">
   <img align="left" width="22" src="https://cdn.simpleicons.org/php" alt="php">
   <img align="left" width="22" src="https://cdn.simpleicons.org/gnubash" alt="gnu bash">
-  <img align="left" width="22" src="https://cdn.simpleicons.org/powershell" alt="PowerShell">
+  <!--<img align="left" width="22" src="https://cdn.simpleicons.org/powershell" alt="PowerShell">-->
   </p>
   <!--DBS--><p>
   <img align="left" width="22" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL">
