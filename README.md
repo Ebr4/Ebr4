@@ -67,12 +67,12 @@
   <img align="left" width="22" src="https://cdn.simpleicons.org/mysql" alt="Mysql">
   <img align="left" width="22" src="https://cdn.simpleicons.org/mariadb" alt="mariadb">
   <img align="left" width="22" src="https://cdn.simpleicons.org/sqlite" alt="Sqlite">
-  <img align="left" width="22" src="https://cdn.simpleicons.org/microsoftsqlserver" alt="MSSQL">
+  <!--<img align="left" width="22" src="https://cdn.simpleicons.org/microsoftsqlserver" alt="MSSQL">-->
   <img align="left" width="22" src="https://cdn.simpleicons.org/firebase" alt="firebase">
   <img align="left" width="22" src="https://cdn.simpleicons.org/redis" alt="redis">
   </p>
   <!--CLOUD--><p>
-  <img align="left" width="22" src="https://cdn.simpleicons.org/aws" alt="AWS">
+  <!--<img align="left" width="22" src="https://cdn.simpleicons.org/aws" alt="AWS">-->
   <img align="left" width="22" src="https://cdn.simpleicons.org/microsoftazure" alt="Azure">
   <img align="left" width="22" src="https://cdn.simpleicons.org/cloudflare" alt="Cloudflare">
   <img align="left" width="22" src="https://cdn.simpleicons.org/digitalocean" alt="digital ocean">
