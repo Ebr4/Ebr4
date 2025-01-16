@@ -72,8 +72,8 @@
   <img align="left" width="22" src="https://cdn.simpleicons.org/redis" alt="redis">
   </p>
   <!--CLOUD--><p>
-  <!--<img align="left" width="22" src="https://cdn.simpleicons.org/aws" alt="AWS">-->
-  <img align="left" width="22" src="https://cdn.simpleicons.org/microsoftazure" alt="Azure">
+  <!--<img align="left" width="22" src="https://cdn.simpleicons.org/aws" alt="AWS">
+  <img align="left" width="22" src="https://cdn.simpleicons.org/microsoftazure" alt="Azure">-->
   <img align="left" width="22" src="https://cdn.simpleicons.org/cloudflare" alt="Cloudflare">
   <img align="left" width="22" src="https://cdn.simpleicons.org/digitalocean" alt="digital ocean">
   <img align="left" width="22" src="https://cdn.simpleicons.org/vmware" alt="Vmware">
@@ -88,7 +88,7 @@
   </p>
   <!--OSs--><p>
   <img align="left" width="22" src="https://cdn.simpleicons.org/linux" alt="Linux">
-  <img align="left" width="22" src="https://cdn.simpleicons.org/windows" alt="Windows">
+  <!--<img align="left" width="22" src="https://cdn.simpleicons.org/windows" alt="Windows">-->
   <img align="left" width="22" src="https://cdn.simpleicons.org/redhat" alt="red hat">
   <img align="left" width="22" src="https://cdn.simpleicons.org/kalilinux" alt="kalilinux">
   </p>
